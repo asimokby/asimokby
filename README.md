@@ -2,14 +2,14 @@
 
 
 #### I am currently: 
-######  - A senior Computer Engineering student at [Marmaray University](https://www.marmara.edu.tr/en). 
-###### - A Machine Learning Intern at [T4 Analytics](https://t4analytics.com/)
+- A senior Computer Engineering student at [Marmaray University](https://www.marmara.edu.tr/en). 
+- A Machine Learning Intern at [T4 Analytics](https://t4analytics.com/)
 
 
 #### Interests: 
-###### - Machine Learning & NLP. (Looking to collaborate on Machine Learning or NLP projects.)
-###### - Running. 
-#####  - Find me on Strava: [<img src="https://cdn.worldvectorlogo.com/logos/strava-2.svg" width=20 height="20"/>](https://www.strava.com/athletes/46693929)
+- Machine Learning & NLP. (Looking to collaborate on Machine Learning or NLP projects.)
+- Running. 
+  - Find me on Strava: [<img src="https://cdn.worldvectorlogo.com/logos/strava-2.svg" width=20 height="20"/>](https://www.strava.com/athletes/46693929)
 
 
 
