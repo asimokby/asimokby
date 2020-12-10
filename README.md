@@ -3,7 +3,6 @@
 
 #### I am currently: 
 - A senior Computer Engineering student at [Marmaray University](https://www.marmara.edu.tr/en). 
-- A Machine Learning Intern at [T4 Analytics](https://t4analytics.com/)
 
 
 #### Interests: 
