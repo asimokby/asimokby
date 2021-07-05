@@ -1,9 +1,6 @@
 ### Hi there 😄
 
 
-#### I am currently: 
-- A senior Computer Engineering student at [Marmaray University](https://www.marmara.edu.tr/en). 
-
 
 #### Interests: 
 - Machine Learning & NLP. (Looking to collaborate on Machine Learning or NLP projects.)
