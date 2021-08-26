@@ -3,7 +3,7 @@
 
 
 #### Interests: 
-- Machine Learning & NLP. (Looking to collaborate on Machine Learning or NLP projects.)
+- Machine Learning & NLP.
 - Running. 
   - Find me on Strava: [<img src="https://cdn.worldvectorlogo.com/logos/strava-2.svg" width=20 height="20"/>](https://www.strava.com/athletes/46693929)
 
