@@ -11,5 +11,5 @@
 
 #### Find me on: 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>](https://www.linkedin.com/in/asimokby/)
-[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="40" height="40"/>](https://www.kaggle.com/asemokby)
+<!-- [<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="40" height="40"/>](https://www.kaggle.com/asemokby) -->
 
